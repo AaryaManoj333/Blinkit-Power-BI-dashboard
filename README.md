@@ -3,6 +3,7 @@ This repository contains the source files and documentation for a Power BI Dashb
 The goal of this project is to provide actionable insights into product sales, outlet performance, and operational efficiency across different store tiers and locations.
 
 By examining two key metrics—**Total Sales (Revenue)** and **Average Sales (Basket Size)**—this dashboard reveals critical differences between where the company generates volume and where it achieves transaction value.
+![Blinkit Sales Dashboard Screenshot](blinkit dashboard.png)
 
 #### 1. Outlet Location & Performance: Volume vs. Value
 
